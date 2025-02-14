@@ -1,0 +1,15 @@
+{
+  "name": "toulouse-asian-restaurants-guide",
+  "version": "1.0.0",
+  "description": "Guide des meilleurs restaurants asiatiques de Toulouse",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1"
+  }
+}
